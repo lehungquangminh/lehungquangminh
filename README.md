@@ -1,4 +1,4 @@
-# **🌟 Welcome to Lê Hùng Quang Minh's GitHub! 🚀**  
+# **🌟 Welcome to Lê Hùng Quang Minh(Zynther)'s GitHub! 🚀**  
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&width=550&lines=Welcome+to+my+GitHub!;I+love+coding!;Creating+amazing+projects!;Exploring+new+technologies!" alt="Typing SVG" />
 </div>  
