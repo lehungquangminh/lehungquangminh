@@ -5,11 +5,18 @@
 
 ---
 
-## **👨‍💻 About Me**  
-- 🔭 **Currently working on:** Cool open-source projects & Discord Bots  
-- 🌱 **Learning:** `JavaScript`, `TypeScript`, `Node.js`, `Lavalink`, `Distube`, `Python`, `Go`, `Rust`, `Dart`  
-- 💬 **Ask me about:** Web Development, Discord Bots, Cloud Solutions, and Backend Development  
-- 📫 **Contact me:** [Discord](https://discord.com/users/866847283421511702) | [Email](mailto:zyntherdev@gmail.com)  
+## **👨‍💻 About Me**
+
+* 🧠 **Born in 2011** – young in age, sharp in code
+* 🦀 Currently wrestling with Rust and raising a Python 🐍
+* 🧬 Building my own operating system — not because I have to, but because I want to break tech open
+* 🤖 Crafting Discord bots, backends, tools, and anything that screams "hardcore"
+* 🔥 **Tech Stack:** Rust, Python, TypeScript, FastAPI, Axum, Docker, PostgreSQL, Discord.js
+* 💬 **Ask Me About:** Backend dev, OS design, Discord bots, system performance, web servers
+* 📫 **Contact:** [Discord](https://discord.com/users/866847283421511702) | [Gmail](mailto:zyntherdev@gmail.com)
+
+> *I don't code to make it pretty. I code to make the machine obey.* 💻🔥
+
 
 ---
 
