@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&width=550&lines=Welcome+to+my+GitHub!;I+love+coding!;Creating+amazing+projects!;Exploring+new+technologies!;I+am+Zynther" alt="Typing SVG" />
 </div>  
 
-![Banner](https://media.discordapp.net/attachments/123456789012345678/123456789012345678/github-banner.png)  
-
 ---
 
 ## **👨‍💻 About Me**  
