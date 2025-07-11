@@ -38,9 +38,8 @@
 
 ## **📈 GitHub Stats**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zynther&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zynther&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zynther&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lehungquangminh&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehungquangminh&layout=compact&theme=radical" width="48%" />
 </div>  
 
 ---
