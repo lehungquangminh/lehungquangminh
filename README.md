@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Lê%20Hùng%20Quang%20Minh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20System%20Architect&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=100&lines=%F0%9F%9A%80+Building+High+Performance+Systems;%F0%9F%A6%80+Rust+and+System+Programming;%F0%9F%90%8D+Python+Backend+Specialist;%F0%9F%8F%97%EF%B8%8F+Scalable+Architecture+Designer" alt="Typing SVG" />
 </div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=🚀+Building+High+Performance+Systems;🦀+Rust+and+System+Programming;🐍+Python+Backend+Specialist;🏗️+Scalable+Architecture+Designer" alt="Animated Typing" />
-</div>
+
 <br>
+
 ---
 
 ## 🔥 Tech Arsenal
@@ -24,6 +24,7 @@
 <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,githubactions&theme=dark" alt="Cloud" />
 
 </div>
+
 ---
 
 ## 🏆 GitHub Universe
