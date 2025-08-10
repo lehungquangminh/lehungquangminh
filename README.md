@@ -1,67 +1,78 @@
-# **🌟 Welcome to Lê Hùng Quang Minh(Zynther)'s GitHub! 🚀**  
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&width=550&lines=Welcome+to+my+GitHub!;I+love+coding!;Creating+amazing+projects!;Exploring+new+technologies!;I+am+Zynther" alt="Typing SVG" />
-</div>  
-
----
-
-## **👨‍💻 About Me**
-
-* 🧠 **Born in 2011** – young in age, sharp in code
-* 🦀 Currently wrestling with Rust and raising a Python 🐍
-* 🧬 Building my own operating system — not because I have to, but because I want to break tech open
-* 🤖 Crafting Discord bots, backends, tools, and anything that screams "hardcore"
-* 🔥 **Tech Stack:** Rust, Python, TypeScript, FastAPI, Axum, Docker, PostgreSQL, Discord.js
-* 💬 **Ask Me About:** Backend dev, OS design, Discord bots, system performance, web servers
-* 📫 **Contact:** [Discord](https://discord.com/users/866847283421511702) | [Gmail](mailto:zyntherdev@gmail.com)
-
-> *I don't code to make it pretty. I code to make the machine obey.* 💻🔥
-
-
----
-
-## **🚀 Tech Stack & Tools**  
-### **Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-### **Web Development**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
-
-### **Backend Development**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-
-### **Database & Cloud**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-
-### **Discord Bot Development**  
-![Lavalink](https://img.shields.io/badge/-Lavalink-FF0000?style=for-the-badge&logo=java&logoColor=white) ![Distube](https://img.shields.io/badge/-Distube-0088CC?style=for-the-badge&logo=discord&logoColor=white) ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Eris](https://img.shields.io/badge/-Eris-99AAB5?style=for-the-badge&logo=discord&logoColor=white)  
-
-### **Tools & IDEs**  
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
-
----
-
-## **📈 GitHub Stats**  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Lê%20Hùng%20Quang%20Minh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20System%20Architect&descAlignY=55&descSize=20" width="100%" />
+</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lehungquangminh&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehungquangminh&layout=compact&theme=radical" width="48%" />
-</div>  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=🚀+Building+High+Performance+Systems;🦀+Rust+and+System+Programming;🐍+Python+Backend+Specialist;🏗️+Scalable+Architecture+Designer" alt="Animated Typing" />
+</div>
+<br>
+---
+
+## 🔥 Tech Arsenal
+
+<div align="center">
+
+### 🎯 **Core Stack**
+<img src="https://skillicons.dev/icons?i=rust,python,typescript,javascript,go&theme=dark" alt="Languages" />
+
+### 🚀 **Backend & Infrastructure**  
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgresql,mongodb,redis,docker,kubernetes&theme=dark" alt="Backend" />
+
+### 🛠️ **Development Tools**
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,nginx,postman&theme=dark" alt="Tools" />
+
+### ☁️ **Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,githubactions&theme=dark" alt="Cloud" />
+
+</div>
+---
+
+## 🏆 GitHub Universe
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lehungquangminh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f093fb&icon_color=667eea&text_color=c9d1d9&border_radius=15" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehungquangminh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f093fb&text_color=c9d1d9&border_radius=15" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lehungquangminh&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=f093fb&sideLabels=667eea&dates=c9d1d9&border_radius=15" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lehungquangminh&bg_color=0d1117&color=667eea&line=f093fb&point=c9d1d9&area=true&hide_border=true&radius=15" alt="Contribution Graph" />
+</div>
 
 ---
 
-## **🌎 Socials & Contact**  
-<p align="center">
-  <a href="https://github.com/lehungquangminh"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://discord.com/users/866847283421511702"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:zyntherdev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>  
+## 🤝 Connect & Collaborate
+<div align="center">
+  <a href="https://github.com/lehungquangminh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/866847283421511702">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
+  </a>
+  <a href="mailto:zyntherdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lehungquangminh&color=667eea&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/lehungquangminh?label=FOLLOWERS&style=for-the-badge&color=764ba2&labelColor=0d1117" alt="Followers" />
+</div>
 
 ---
 
-## **🔥 Fun Fact**
-> **"Coding is like humor. If you have to explain it, it’s bad."** - Cory House  
+<div align="center">
+  <h3>💫 Code • Create • Innovate 💫</h3>
+</div>
 
----
-
-💖 **Thanks for visiting my profile!** 🚀  
-![Visitor Count](https://komarev.com/ghpvc/?username=Zynther&color=blue)  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&animation=fadeIn" width="100%" />
+</div>
